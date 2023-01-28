@@ -1,4 +1,4 @@
-![](/_assets/CO_hero.png)
+![header image](/_assets/CO_hero.png)
 
 ## Overview
 
@@ -18,7 +18,7 @@ The trip will conclude in Denver from *March 1st - March 5th*. Here we plan on e
 ---
 ## Arrivals & Departures 
 
-![](/_assets/arrivals.png)
+![arrivals](/_assets/arrivals.png)
 
 ---
 ## Daily Itinerary 

@@ -18,21 +18,7 @@ The trip will conclude in Denver from *March 1st - March 5th*. Here we plan on e
 ## Arrivals & Departures 
 
 ![arrivals](assets/arrivals.png)
-
-<details><summary>See more</summary>
-| Name     | Arrival  | Time    | Departure | Time |
-| -------- | -------- | ------- | --------- | ---- |
-| Joe      | Fri 24th | 4:00pm  |           |      |
-| Billy    | Fri 24th | 7:00pm  |           |      |
-| Alex     | Fri 24th | 7:30pm  |           |      |
-| John     | Fri 24th | 7:30pm  |           |      |
-| Rob      | Fri 24th | 10:00pm |           |      |
-| Mike     | Fri 24th | 10:00pm |           |      |
-| Mark     | Fri 24th | 10:00pm |           |      |
-| Brenton  | Fri 24th | 10:00pm |           |      |
-| Nicholas | Fri 24th | 10:00pm |           |      |
-| Andrew   | Fri 24th | 10:00pm |           |      |
-</details>
+[see more](Arrivals-Departures)
 
 ## Daily Itinerary 
 
@@ -44,7 +30,11 @@ The trip will conclude in Denver from *March 1st - March 5th*. Here we plan on e
 - Stay at the <a href="https://www.ihg.com/holidayinnexpress/hotels/us/en/golden/dengo/hoteldetail" target="_blank">Holiday Inn Express - Denver Area</a>
 
 ### Saturday, Feb 24th
-
+- Wake up early, head to Copper
+- Ski/Snowboard at <a href="http://coppercolorado.com" target="_blank">Copper Mountain</a>
+	- Base area lifts are open 9am - 4pm
+- Check into Airbnb in Idaho Springs at 3:00 PM
+	- 704 Skyline Drive Idaho Springs, CO 80452
 
 ### Sunday, Feb 24th
 

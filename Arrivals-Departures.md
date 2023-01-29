@@ -1,4 +1,4 @@
-[Homepage](README)
+[Homepage](/)
 
 ### Arrivals
 

@@ -3,7 +3,7 @@
 ## Overview
 
 The bachelor party starts off in the mountains from *February 24th - March 1st*
-We will be staying in Idaho Springs, CO at the mountain house [Airbnb](https://abnb.me/MNlRSeE16ub)
+We will be staying in Idaho Springs, CO at the mountain house <a href="https://abnb.me/MNlRSeE16ub" target="_blank">Airbnb</a>
 During this part of the trip we will be:
 - Ski/Snowboarding
 - Hitting the casinos [in Blackhawk](https://www.google.com/maps/dir/Idaho+Springs,+Colorado/Black+Hawk,+Colorado/@39.7796953,-105.4908333,13.28z/data=!4m14!4m13!1m5!1m1!1s0x876ba525c91b6e55:0xfb9e9ae2915f3f68!2m2!1d-105.5136081!2d39.7424881!1m5!1m1!1s0x876bbc7a8ccbb8fb:0x4935b9a9c9693666!2m2!1d-105.4938853!2d39.7969322!3e0)
@@ -44,6 +44,8 @@ The trip will conclude in Denver from *March 1st - March 5th*. Here we plan on e
 
 ### Saturday, Feb 24th
 
+<a href="https://www.markdownguide.org" target="_blank">Learn Markdown!</a>
+
 
 ### Sunday, Feb 24th
 
@@ -77,3 +79,7 @@ Matt Rudolph: (973) 650-1362‬
 
 
 <font color="red">This text is red!</font>
+
+
+
+

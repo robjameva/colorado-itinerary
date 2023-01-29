@@ -1,6 +1,7 @@
 [Homepage](README)
 
 ### Arrivals
+
 | Name     | Arrival  | Time    | Flight Number |
 | -------- | -------- | ------- | ------------- |
 | Joe      | 2/24 | 4:00pm  |               |
@@ -23,6 +24,7 @@
 | Angelo   | 3/1  |         |               |
 
 ### Departures
+
 | Name     | Departure | Time    | Flight Number |
 | -------- | --------- | ------- | ------------- |
 | Joe      | 3/1       |         |               |

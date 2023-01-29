@@ -84,7 +84,7 @@ The trip will conclude in Denver from ***March 1st - March 5th***. Here we plan 
 
 ## Questions
 Rob Evanik: (973) 919-5256 <br>
-Matt Rudolph: (973) 650-1362‬
+Matt Rudolph: (973) 650-1362‬ 
 
 
 <font color="red">This text is red!</font>

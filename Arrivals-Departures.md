@@ -1,4 +1,4 @@
-[Homepage](/)
+[Homepage](/colorado-itinerary)
 
 ### Arrivals
 

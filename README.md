@@ -17,7 +17,7 @@ The trip will conclude in Denver from ***March 1st - March 5th***. Here we plan 
 
 ## Arrivals & Departures 
 
-![arrivals](assets/arrivals_v2.png)
+![arrivals](assets/arrivals_v3.png)
 [flight schedule](Arrivals-Departures)
 
 ## Daily Itinerary 

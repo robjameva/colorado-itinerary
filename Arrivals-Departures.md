@@ -6,8 +6,8 @@
 | -------- | ------- | ------- | ------------- |
 | Joe      | 2/24    | 4:00pm  |               |
 | Billy    | 2/24    | 7:00pm  |               |
-| Alex     | 2/24    | 7:30pm  | UA 2660              |
-| John     | 2/24    | 7:30pm  | UA 2660              |
+| Alex     | 2/24    | 7:30pm  | UA 2660       |
+| John     | 2/24    | 7:30pm  | UA 2660       |
 | Rob      | 2/24    | 10:00pm | UA 1022       |
 | Mike     | 2/24    | 10:00pm | UA 1022       |
 | Mark     | 2/24    | 10:00pm | UA 1022       |
@@ -15,9 +15,9 @@
 | Nicholas | 2/24    | 10:00pm | UA 1022       |
 | Andrew   | 2/24    | 10:00pm | UA 1022       |
 | Matt     | 2/25    | 7:30pm  |               |
+| Brendan  | 2/25    | 7:30pm  |               |
 | Bob      | 2/26    | 8:30am  |               |
 | Ange     | 2/26    | 8:30am  |               |
-| Brendan  | 3/1     | 2:00pm  |               |
 | Luke     | 3/1     |         |               |
 | Jordan   | 3/1     |         |               |
 | Ant      | 3/1     |         |               |
@@ -34,9 +34,9 @@
 | Brenton  | 3/2       |         |               |
 | Bob      | 3/2       | 3:40pm  | UA 1715       |
 | Ange     | 3/2       | 3:40pm  | UA 1715       | 
+| Brendan  | 3/2       | 11:40am |               |
 | Nicholas | 3/4       | 7:00pm  |               |
 | Andrew   | 3/4       | 7:00pm  |               |
-| Brendan  | 3/4       | 11:45pm |               |
 | Mark     | 3/5       |         |               |
 | Matt     | 3/5       |         |               |
 | Luke     | 3/5       |         |               |

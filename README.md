@@ -35,7 +35,7 @@ The trip will conclude in Denver from ***March 1st - March 5th***. Here we plan 
 	- Base area lifts are open 9am - 4pm
 - Check in at Idaho Springs Airbnb available at 3:00 PM
 	- [704 Skyline Drive Idaho Springs, CO 80452](https://maps.apple.com/?address=704%20Skyline%20Dr,%20Idaho%20Springs,%20CO%20%2080452,%20United%20States&ll=39.732180,-105.532942&q=704%20Skyline%20Dr&t=m)
-- Matt arrives
+- Matt & Brendan arrive
 
 ### Sunday, Feb 26th
 - Bob & Andrew Napolitano arrive 
@@ -60,11 +60,11 @@ The trip will conclude in Denver from ***March 1st - March 5th***. Here we plan 
 - Check In to Denver Airbnb at 2:00 pm
 	- [1453 Perry Street Denver, CO 80204](https://maps.apple.com/?address=1453%20Perry%20St,%20Denver,%20CO%20%2080204,%20United%20States&ll=39.739481,-105.039654&q=1453%20Perry%20St&t=m)
 - Joe & Billy depart
-- Brendan, Jordan, Luke, Ant & Angelo arrive
+- Jordan, Luke, Ant & Angelo arrive
 - Devils game 7pm at <a href="https://maps.apple.com/?address=1000%20Chopper%20Cir,%20Denver,%20CO%2080204,%20United%20States&auid=17007286315154119348&ll=39.748650,-105.007635&lsp=9902&q=Ball%20Arena&t=m" target="_blank">The Ball Arena</a>
 
 ### Thursday, Mar 2nd
-- Alex, John, Bob, Andrew N & Brenton depart
+- Alex, John, Bob, Andrew N Brendan & Brenton depart
 - Free day in the city
 
 ### Friday, Mar 3rd
@@ -72,7 +72,7 @@ The trip will conclude in Denver from ***March 1st - March 5th***. Here we plan 
 - Dinner at <a href="https://www.elways.com/" target="_blank">Elway's Steakhouse</a>
 
 ### Saturday, Mar 4th
-- Brendan, Nicholas & Andrew depart
+- Nicholas & Andrew depart
 - Ant's birthday
 - Free day in the city
 

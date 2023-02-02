@@ -17,7 +17,7 @@ The trip will conclude in Denver from ***March 1st - March 5th***. Here we plan 
 
 ## Arrivals & Departures 
 
-![arrivals](assets/arrivals_v3.png)
+![arrivals](assets/arrivals_v4.png)
 [flight schedule](Arrivals-Departures)
 
 ## Daily Itinerary 
@@ -53,6 +53,7 @@ The trip will conclude in Denver from ***March 1st - March 5th***. Here we plan 
 - Ski/Snowboard at <a href="https://www.arapahoebasin.com/" target="_blank">Arapahoe Basin</a>
 	- 40 minute ride from the house
 	- Base area lifts are open 9:00 am - 4:00 pm
+-  Jordan & Luke arrive - staying in Denver that night
 
 ### Wednesday, Mar 1st
 - Travel day
@@ -60,7 +61,7 @@ The trip will conclude in Denver from ***March 1st - March 5th***. Here we plan 
 - Check In to Denver Airbnb at 2:00 pm
 	- [1453 Perry Street Denver, CO 80204](https://maps.apple.com/?address=1453%20Perry%20St,%20Denver,%20CO%20%2080204,%20United%20States&ll=39.739481,-105.039654&q=1453%20Perry%20St&t=m)
 - Joe & Billy depart
-- Jordan, Luke, Ant & Angelo arrive
+- Ant & Angelo arrive
 - Devils game 7pm at <a href="https://maps.apple.com/?address=1000%20Chopper%20Cir,%20Denver,%20CO%2080204,%20United%20States&auid=17007286315154119348&ll=39.748650,-105.007635&lsp=9902&q=Ball%20Arena&t=m" target="_blank">The Ball Arena</a>
 
 ### Thursday, Mar 2nd
@@ -78,7 +79,7 @@ The trip will conclude in Denver from ***March 1st - March 5th***. Here we plan 
 - Free day in the city
 
 ### Sunday, Mar 5th
-- Mark, Matt, Luke, Jordan Ant, Angelo, Rob,& Mike depart
+- Mark, Matt, Luke, Jordan, Ant, Angelo, Rob & Mike depart
 
 ## Map
 ![map](assets/map.png)

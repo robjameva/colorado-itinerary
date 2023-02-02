@@ -68,8 +68,9 @@ The trip will conclude in Denver from ***March 1st - March 5th***. Here we plan 
 - Free day in the city
 
 ### Friday, Mar 3rd
-- Golf at Overland Park <a href="https://www.cityofdenvergolf.com/overland_park" target="_blank">Golf Course</a>
-- Dinner at <a href="https://www.elways.com/" target="_blank">Elway's Steakhouse</a>
+- Golf at Overland Park <a href="https://www.cityofdenvergolf.com/overland_park" target="_blank">Golf Course</a> 
+	- Tee Times: TBD
+- Dinner at <a href="https://www.elways.com/" target="_blank">Elway's Steakhouse</a> 7:00 pm
 
 ### Saturday, Mar 4th
 - Nicholas & Andrew depart

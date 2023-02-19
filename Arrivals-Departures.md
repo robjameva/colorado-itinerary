@@ -38,10 +38,10 @@
 | Nicholas | 3/4  | 7:00pm   | 12:50am   | UA 1812       |
 | Andrew   | 3/4  | 7:00pm   | 12:50am   | UA 1812       |
 | Mark     | 3/4  | 11:51pm  | 5:30am    | UA 351        |
+| Angelo   | 3/4  | 5:50pm   | 11:30pm   | UA 2613       |
 | Matt     | 3/5  | 11:45am  | 5:30pm    | UA 1572       |
 | Luke     | 3/5  | 1:50pm   | 7:20pm    | UA 467        |
 | Jordan   | 3/5  | 1:50pm   | 7:20pm    | UA 467        |
-| Angelo   | 3/5  | 5:50pm   | 11:30pm   | UA 2613       |
 | Rob      | 3/5  | 5:50pm   | 11:30pm   | UA 2613       |
 | Mike     | 3/5  | 5:50pm   | 11:30pm   | UA 2613       |
 | Ant      | 3/5  | 7:00pm   | 12:50am   | UA 1812       |

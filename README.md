@@ -17,7 +17,7 @@ The trip will conclude in Denver from ***March 1st - March 5th***. Here we plan 
 
 ## Arrivals & Departures 
 
-![arrivals](assets/arrivals_v4.png)
+![arrivals](assets/arrivals_v5.png)
 [flight schedule](Arrivals-Departures)
 
 ## Daily Itinerary 
@@ -27,7 +27,7 @@ The trip will conclude in Denver from ***March 1st - March 5th***. Here we plan 
 - Pickup rental vehicles at Denver Airport - Alamo
 	- Full Size SUV
 	- Pickup Truck
-- Stay at the <a href="https://www.ihg.com/holidayinnexpress/hotels/us/en/golden/dengo/hoteldetail" target="_blank">Holiday Inn Express - Denver Area</a>
+- Stay at the <a href="https://www.bestwestern.com/en_US/book/hotels-in-golden/aiden-by-best-western-denver-west-golden/propertyCode.06200.html" target="_blank">Aiden by Best Western @ Denver West/Golden</a>
 
 ### Saturday, Feb 25th
 - Ski/Snowboard at <a href="http://coppercolorado.com" target="_blank">Copper Mountain</a>
